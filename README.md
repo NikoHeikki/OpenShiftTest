@@ -1,2 +1,2 @@
 # OpenShiftTest
-Testing Openshift functionality with php code 
+This is a feature branch
