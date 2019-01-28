@@ -1,2 +1,2 @@
 # OpenShiftTest
-This is a feature branch!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This is a current release branch from master
