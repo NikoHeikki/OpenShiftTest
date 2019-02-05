@@ -1,2 +1,2 @@
 # OpenShiftTest
-Thi dad adadads is a feature branch!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Thi not adadada is a feature branch!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
